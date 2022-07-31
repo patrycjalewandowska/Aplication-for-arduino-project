@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\Patrycja\Desktop\Repo Arduino\Aplication-for-arduino-project\AppArduino\AppArduino\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-07-26T11:31:41.706</Modified>
+      <Modified>2022-07-26T12:32:52.455</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Patrycja\Desktop\Repo Arduino\Aplication-for-arduino-project\AppArduino\AppArduino\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-07-26T11:31:40.613</Modified>
+      <Modified>2022-07-26T12:32:51.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Patrycja\Desktop\Repo Arduino\Aplication-for-arduino-project\AppArduino\AppArduino\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppArduino.runtimeconfig.json">
       <PackagePath>AppArduino.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Patrycja\Desktop\Repo Arduino\Aplication-for-arduino-project\AppArduino\AppArduino\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppArduino.dll">
       <PackagePath>AppArduino.dll</PackagePath>
-      <Modified>2022-07-26T11:31:34.260</Modified>
+      <Modified>2022-07-26T12:32:47.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Patrycja\Desktop\Repo Arduino\Aplication-for-arduino-project\AppArduino\AppArduino\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AppArduino.exe</PackagePath>
-      <Modified>2022-07-26T11:31:34.324</Modified>
+      <Modified>2022-07-26T12:32:48.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Patrycja\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1063,7 +1063,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Patrycja\Desktop\Repo Arduino\Aplication-for-arduino-project\AppArduino\AppArduino\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\AppArduino.deps.json">
       <PackagePath>AppArduino.deps.json</PackagePath>
-      <Modified>2022-07-26T11:31:41.261</Modified>
+      <Modified>2022-07-26T12:32:52.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.419\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
