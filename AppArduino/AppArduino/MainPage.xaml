@@ -29,10 +29,22 @@
                 HorizontalOptions="Center" />
 
             <Button
-                x:Name="CounterBtn"
-                Text="Click me"
-                SemanticProperties.Hint="Counts the number of times you click"
-                Clicked="OnCounterClicked"
+                x:Name="miasta_przyszlosci"
+                Text="Miasta przyszłości"
+                 SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnMiastaPrzyszlosci"
+                HorizontalOptions="Center" />
+
+            <Button
+                x:Name="settings"
+                Text="Ustawienia"
+                Clicked="OnSettings"
+                HorizontalOptions="Center" />
+
+            <Button
+                x:Name="exit"
+                Text="Wyjście"
+                
                 HorizontalOptions="Center" />
 
 

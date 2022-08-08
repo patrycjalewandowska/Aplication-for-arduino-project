@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppArduino.MiastaPrzyszlosci"
+             Title="Miasta Przyszlosci">
+    <VerticalStackLayout>
+        <Label 
+            Text="Welcome to Miasta Przyszłości -  Wybierz stół"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Button
+                x:Name="WaterBtn"
+                Text="Woda"
+                 Clicked="OnWaterPage"
+                HorizontalOptions="Center" />
+
+        <Button
+                x:Name="CurrentBtn"
+                Text="Prąd"
+                 Clicked="OnCurrentPage"
+                HorizontalOptions="Center" />
+
+        <Button
+                x:Name="WarmthBtn"
+                Text="Ciepło"
+                 Clicked="OnWarmthPage"
+                HorizontalOptions="Center" />
+
+        <Button
+                x:Name="LightBtn"
+                Text="Światło"
+                 Clicked="OnLightPage"
+                HorizontalOptions="Center" />
+
+        <Button
+                x:Name="TransportBtn"
+                Text="Transport"
+                 Clicked="OnTransportPage"
+                HorizontalOptions="Center" />
+
+        <Button
+                x:Name="MaterialsBtn"
+                Text="Materiały"
+                 Clicked="OnMaterialsPage"
+                HorizontalOptions="Center" />
+
+    </VerticalStackLayout>
+</ContentPage>

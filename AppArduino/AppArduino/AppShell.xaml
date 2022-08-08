@@ -11,4 +11,44 @@
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
+    <ShellContent
+        Title="About"
+        ContentTemplate="{DataTemplate local:MiastaPrzyszlosci}"
+        Route="MiastaPrzyszlosci" />
+    
+    <ShellContent
+        Title="Woda"
+        ContentTemplate="{DataTemplate local:WaterPage}"
+        Route="WaterPage" />
+
+    <ShellContent
+        Title="Światło"
+        ContentTemplate="{DataTemplate local:LightPage}"
+        Route="LightPage" />
+
+    <ShellContent
+        Title="Ciepło"
+        ContentTemplate="{DataTemplate local:WarmthPage}"
+        Route="WarmthPage" />
+
+    <ShellContent
+        Title="Transport"
+        ContentTemplate="{DataTemplate local:TransportPage}"
+        Route="TransportPage" />
+
+    <ShellContent
+        Title="Materiały"
+        ContentTemplate="{DataTemplate local:MaterialsPage}"
+        Route="MaterialsPage" />
+
+    <ShellContent
+        Title="Prąd"
+        ContentTemplate="{DataTemplate local:CurrentPage}"
+        Route="CurrentPage" />
+
+    <ShellContent
+        Title="Ustawienia"
+        ContentTemplate="{DataTemplate local:SettingsPage}"
+        Route="SettingsPage" />
+
 </Shell>
