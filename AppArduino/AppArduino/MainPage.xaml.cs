@@ -18,5 +18,7 @@ public partial class MainPage : ContentPage
     {
         Shell.Current.GoToAsync("//SettingsPage");
     }
+
+		
 }
 
