@@ -9,17 +9,20 @@
             Spacing="25"
             Padding="30,0"
             VerticalOptions="Center">
-            
+
+           
+
             <Line X1="40"
       Y1="0"
       X2="0"
       Y2="50"
       Stroke="Red" />
-            <Polyline Points="1 20,250 50,1 60"
-          Stroke="DarkBlue"
+            <Polyline Points="10,10 500,10 500,100 470,70 500,100 530, 70  "
+          Stroke="Red                      "
           StrokeThickness="5"
           StrokeLineJoin="Round" 
                       />
+            
 
             <Ellipse Fill="DarkBlue"
          Stroke="Red"
@@ -29,7 +32,14 @@
          HorizontalOptions="Start" 
          />
 
-            <Polygon Points="0,115   95,115  
+
+            <Polygon
+                Stroke="red"
+                Points="0,115 95,115 65,90 "
+               />
+
+            <Polygon Points="0,115   95,115 
+                     
               65,90   85,90   
               120,120         
                       85,150  65,150  
