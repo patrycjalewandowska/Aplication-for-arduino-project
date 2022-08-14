@@ -1,4 +1,7 @@
-﻿namespace AppArduino;
+﻿using Microsoft.Maui.Graphics;
+using System.Drawing;
+
+namespace AppArduino;
 
 public partial class MainPage : ContentPage
 {
@@ -19,6 +22,7 @@ public partial class MainPage : ContentPage
         Shell.Current.GoToAsync("//SettingsPage");
     }
 
-		
+    
+
 }
 

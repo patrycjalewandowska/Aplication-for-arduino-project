@@ -22,21 +22,33 @@
           StrokeThickness="5"
           StrokeLineJoin="Round" 
                       />
+
+            <Rectangle Fill="Red"
+           WidthRequest="150"
+           HeightRequest="50"
+           HorizontalOptions="Start" />
             
+
+            <Label
+                Text="Hello, Minionku"
+                FontSize="20"/>
 
             <Ellipse Fill="DarkBlue"
          Stroke="Red"
          StrokeThickness="4"
          WidthRequest="150"
          HeightRequest="50"
-         HorizontalOptions="Start" 
+         HorizontalOptions="Start"
+                     
          />
 
 
             <Polygon
                 Stroke="red"
-                Points="0,115 95,115 65,90 "
+                Points="0,115 95,115 65,90 "             
+                
                />
+            
 
             <Polygon Points="0,115   95,115 
                      
