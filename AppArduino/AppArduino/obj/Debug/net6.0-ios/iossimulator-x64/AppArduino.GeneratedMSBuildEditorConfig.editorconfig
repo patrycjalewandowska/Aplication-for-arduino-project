@@ -39,41 +39,47 @@ build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.MiastaPrzyszlos
 build_metadata.AdditionalFiles.TargetPath = MiastaPrzyszlosci.xaml
 build_metadata.AdditionalFiles.RelativePath = MiastaPrzyszlosci.xaml
 
-[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/CurrentPage.xaml]
+[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/Current/CurrentPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.CurrentPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\CurrentPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\CurrentPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.Current.CurrentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Current\CurrentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Current\CurrentPage.xaml
 
-[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/LightPage.xaml]
+[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/Light/LightPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.LightPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\LightPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\LightPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.Light.LightPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Light\LightPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Light\LightPage.xaml
 
-[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/MaterialsPage.xaml]
+[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/Materials/MaterialsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.MaterialsPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\MaterialsPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\MaterialsPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.Materials.MaterialsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Materials\MaterialsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Materials\MaterialsPage.xaml
 
-[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/TransportPage.xaml]
+[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/Transport/TransportPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.TransportPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\TransportPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\TransportPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.Transport.TransportPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Transport\TransportPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Transport\TransportPage.xaml
 
-[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/WarmthPage.xaml]
+[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/Warmth/WarmthPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.WarmthPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\WarmthPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\WarmthPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.Warmth.WarmthPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Warmth\WarmthPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Warmth\WarmthPage.xaml
 
-[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/WaterPage.xaml]
+[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/Water/Level 1/Level_1_WaterPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.WaterPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\WaterPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\WaterPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.Water.Level_1.Level_1_WaterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Water\Level 1\Level_1_WaterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Water\Level 1\Level_1_WaterPage.xaml
+
+[C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Pages/Water/WaterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppArduino.Pages.Water.WaterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Water\WaterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Water\WaterPage.xaml
 
 [C:/Users/Patrycja/Desktop/Repo Arduino/Aplication-for-arduino-project/AppArduino/AppArduino/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

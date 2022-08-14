@@ -14,13 +14,13 @@
     <MauiXaml Update="AboutPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Pages\CurrentPage.xaml">
+    <MauiXaml Update="Pages\Current\CurrentPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Pages\LightPage.xaml">
+    <MauiXaml Update="Pages\Light\LightPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Pages\MaterialsPage.xaml">
+    <MauiXaml Update="Pages\Materials\MaterialsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="MiastaPrzyszlosci.xaml">
@@ -29,13 +29,13 @@
     <MauiXaml Update="SettingsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Pages\TransportPage.xaml">
+    <MauiXaml Update="Pages\Transport\TransportPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Pages\WarmthPage.xaml">
+    <MauiXaml Update="Pages\Warmth\WarmthPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Pages\WaterPage.xaml">
+    <MauiXaml Update="Pages\Water\WaterPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
