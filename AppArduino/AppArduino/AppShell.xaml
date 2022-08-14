@@ -22,6 +22,11 @@
         Route="WaterPage" />
 
     <ShellContent
+        Title="Woda / Poziom 1"
+        ContentTemplate="{DataTemplate local:Level_1_WaterPage}"
+        Route="Level_1_WaterPage" />
+
+    <ShellContent
         Title="Światło"
         ContentTemplate="{DataTemplate local:LightPage}"
         Route="LightPage" />

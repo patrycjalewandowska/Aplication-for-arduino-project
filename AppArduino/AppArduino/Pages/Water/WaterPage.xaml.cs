@@ -16,7 +16,7 @@ public partial class WaterPage : ContentPage
 
     private void OnLevel1_WaterPage(object sender, EventArgs e)
     {
-        Shell.Current.GoToAsync("//MiastaPrzyszlosci");
+        Shell.Current.GoToAsync("//Level_1_WaterPage");
     }
 
     private void OnLevel2_WaterPage(object sender, EventArgs e)

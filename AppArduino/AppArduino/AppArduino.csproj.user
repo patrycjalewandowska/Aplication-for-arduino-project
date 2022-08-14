@@ -26,6 +26,9 @@
     <MauiXaml Update="MiastaPrzyszlosci.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Level 1\Level_1_WaterPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="SettingsPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
