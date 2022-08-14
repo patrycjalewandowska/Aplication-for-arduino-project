@@ -12,6 +12,11 @@
                  Text="Poziom 1"
                  Clicked="OnTableListPage"
                 HorizontalOptions="Center" />
+        <Label 
+            Text="Opis poziomu pierwszego"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        
         <Button
                  Text="Poziom 2"
                  Clicked="OnLevel1_WaterPage"
