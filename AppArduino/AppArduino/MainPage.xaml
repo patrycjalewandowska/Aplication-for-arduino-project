@@ -9,6 +9,41 @@
             Spacing="25"
             Padding="30,0"
             VerticalOptions="Center">
+            
+            <Line X1="40"
+      Y1="0"
+      X2="0"
+      Y2="50"
+      Stroke="Red" />
+            <Polyline Points="1 20,250 50,1 60"
+          Stroke="DarkBlue"
+          StrokeThickness="5"
+          StrokeLineJoin="Round" 
+                      />
+
+            <Ellipse Fill="DarkBlue"
+         Stroke="Red"
+         StrokeThickness="4"
+         WidthRequest="150"
+         HeightRequest="50"
+         HorizontalOptions="Start" 
+         />
+
+            <Polygon Points="0,115   95,115  
+              65,90   85,90   
+              120,120         
+                      85,150  65,150  
+                      95,125  0,125  "
+              
+            Fill="Blue"
+         Stroke="Red"
+         StrokeThickness="3" />
+
+            <Line X1="40"
+      Y1="10"
+      X2="0"
+      Y2="50"
+      Stroke="Red" />
 
             <Image
                 Source="dotnet_bot.png"
