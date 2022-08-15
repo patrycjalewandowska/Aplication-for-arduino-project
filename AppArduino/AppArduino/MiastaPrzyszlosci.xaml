@@ -5,7 +5,7 @@
              Title="Miasta Przyszlosci - wybierz temat stołu">
 
     
-    <Grid RowDefinitions="*,*,*,*" ColumnDefinitions="*,*" Margin="20,35,20,20">
+    <Grid RowDefinitions="*,*,*,*" ColumnDefinitions="*,*">
        
 
         <Button
@@ -47,6 +47,11 @@
         <Button
                 x:Name="BackButton"
                 Text="Powrót"                              
-                Grid.Row="3" Grid.Column="0" />
+                Grid.Row ="3" 
+                Grid.ColumnSpan="2"               
+                HorizontalOptions="Center"
+                />
     </Grid>
+    
+    
 </ContentPage>

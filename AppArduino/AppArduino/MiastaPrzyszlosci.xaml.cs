@@ -36,4 +36,11 @@ public partial class MiastaPrzyszlosci : ContentPage
     {
         Shell.Current.GoToAsync("//MaterialsPage");
     }
+
+    private void OnTableListPage(object sender, EventArgs e)
+    {
+        Shell.Current.GoToAsync("//MiastaPrzyszlosci");
+    }
+
+
 }
