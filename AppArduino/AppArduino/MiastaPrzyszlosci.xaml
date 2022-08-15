@@ -2,48 +2,51 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppArduino.MiastaPrzyszlosci"
-             Title="Miasta Przyszlosci">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to Miasta Przyszłości -  Wybierz stół"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+             Title="Miasta Przyszlosci - wybierz temat stołu">
+
+    
+    <Grid RowDefinitions="*,*,*,*" ColumnDefinitions="*,*" Margin="20,35,20,20">
+       
 
         <Button
                 x:Name="WaterBtn"
                 Text="Woda"
                  Clicked="OnWaterPage"
-                HorizontalOptions="Center" />
+                Grid.Row="0" Grid.Column="0" />
 
         <Button
                 x:Name="CurrentBtn"
                 Text="Prąd"
-                 Clicked="OnCurrentPage"
-                HorizontalOptions="Center" />
+                Clicked="OnCurrentPage"
+                Grid.Row="0" Grid.Column="1" />
 
         <Button
                 x:Name="WarmthBtn"
                 Text="Ciepło"
-                 Clicked="OnWarmthPage"
-                HorizontalOptions="Center" />
+                Clicked="OnWarmthPage"
+                Grid.Row="1" Grid.Column="0" />
 
         <Button
                 x:Name="LightBtn"
                 Text="Światło"
-                 Clicked="OnLightPage"
-                HorizontalOptions="Center" />
-
+                Clicked="OnLightPage"
+                Grid.Row="1" Grid.Column="1" />
+        
         <Button
                 x:Name="TransportBtn"
                 Text="Transport"
-                 Clicked="OnTransportPage"
-                HorizontalOptions="Center" />
+                Clicked="OnTransportPage"
+                Grid.Row="2" Grid.Column="0" />
 
         <Button
                 x:Name="MaterialsBtn"
                 Text="Materiały"
                  Clicked="OnMaterialsPage"
-                HorizontalOptions="Center" />
-
-    </VerticalStackLayout>
+                Grid.Row="2" Grid.Column="1" 
+                />
+        <Button
+                x:Name="BackButton"
+                Text="Powrót"                              
+                Grid.Row="3" Grid.Column="0" />
+    </Grid>
 </ContentPage>
