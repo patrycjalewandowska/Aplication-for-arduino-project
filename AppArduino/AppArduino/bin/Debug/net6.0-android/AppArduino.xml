@@ -4,5 +4,8 @@
         <name>AppArduino</name>
     </assembly>
     <members>
+        <member name="P:AppArduino.ViewModel.MainViewModel.Text">
+            <inheritdoc cref="F:AppArduino.ViewModel.MainViewModel.text"/>
+        </member>
     </members>
 </doc>
